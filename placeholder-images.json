@@ -1,0 +1,41 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Gaming background with esports vibe",
+      "imageUrl": "https://picsum.photos/seed/esports1/1200/800",
+      "imageHint": "gaming competition"
+    },
+    {
+      "id": "tournament-solo",
+      "description": "Solo tournament thumbnail",
+      "imageUrl": "https://picsum.photos/seed/solo/400/300",
+      "imageHint": "gaming solo"
+    },
+    {
+      "id": "tournament-duo",
+      "description": "Duo tournament thumbnail",
+      "imageUrl": "https://picsum.photos/seed/duo/400/300",
+      "imageHint": "gaming team"
+    },
+    {
+      "id": "tournament-squad",
+      "description": "Squad tournament thumbnail",
+      "imageUrl": "https://picsum.photos/seed/squad/400/300",
+      "imageHint": "gaming squad"
+    },
+    {
+      "id": "avatar-pro",
+      "description": "Professional gamer avatar",
+      "imageUrl": "https://picsum.photos/seed/gamer/100/100",
+      "imageHint": "gamer portrait"
+    },
+    {
+      "id": "dashboard-banner",
+      "description": "Esports pro league banner",
+      "imageUrl": "https://picsum.photos/seed/esports-hero/1200/400",
+      "imageHint": "gaming tournament"
+    }
+  ]
+}
